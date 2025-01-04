@@ -1,0 +1,8 @@
+%%writefile requirements.txt
+flask
+flask_sqlalchemy
+openai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+APScheduler
